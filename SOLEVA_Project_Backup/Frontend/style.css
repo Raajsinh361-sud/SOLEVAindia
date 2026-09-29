@@ -1710,3 +1710,15 @@ footer {
     }
 
 }
+
+
+
+
+
+
+<style>
+    #page-loader,
+    .page-loader {
+        display: none !important;
+    }
+</style>
